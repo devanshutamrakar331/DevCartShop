@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devanshutamrakar331/DevCart.git/static/css/main.610ee364.css",
+    "main.js": "/devanshutamrakar331/DevCart.git/static/js/main.d5c69f6d.js",
+    "static/js/787.c337d5b1.chunk.js": "/devanshutamrakar331/DevCart.git/static/js/787.c337d5b1.chunk.js",
+    "index.html": "/devanshutamrakar331/DevCart.git/index.html",
+    "main.610ee364.css.map": "/devanshutamrakar331/DevCart.git/static/css/main.610ee364.css.map",
+    "main.d5c69f6d.js.map": "/devanshutamrakar331/DevCart.git/static/js/main.d5c69f6d.js.map",
+    "787.c337d5b1.chunk.js.map": "/devanshutamrakar331/DevCart.git/static/js/787.c337d5b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.610ee364.css",
+    "static/js/main.d5c69f6d.js"
+  ]
+}
